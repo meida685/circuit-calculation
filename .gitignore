@@ -1,7 +1,6 @@
 # 忽略其他所有文件
 *
 # 除了计算书文件
-!circuitCalculate.docx
-!circuitCalculate.pdf
+!circuteCalculate.docx
 !*.md
 !.gitignore
