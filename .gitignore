@@ -1,0 +1,7 @@
+# 忽略其他所有文件
+*
+# 除了计算书文件
+!CALC_JDRE58H12G1213*.docx
+!CALC_JDRE58H12G1213*.pdf
+!*.md
+!.gitignore
